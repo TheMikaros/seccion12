@@ -1,0 +1,8 @@
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\EjercicioPersonas\obj\Debug\EjercicioPersonas.csproj.AssemblyReference.cache
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\EjercicioPersonas\obj\Debug\EjercicioPersonas.csproj.SuggestedBindingRedirects.cache
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\EjercicioPersonas\obj\Debug\EjercicioPersonas.csproj.CoreCompileInputs.cache
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\EjercicioPersonas\bin\Debug\EjercicioPersonas.exe.config
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\EjercicioPersonas\bin\Debug\EjercicioPersonas.exe
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\EjercicioPersonas\bin\Debug\EjercicioPersonas.pdb
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\EjercicioPersonas\obj\Debug\EjercicioPersonas.exe
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\EjercicioPersonas\obj\Debug\EjercicioPersonas.pdb

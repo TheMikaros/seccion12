@@ -1,0 +1,8 @@
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\Ejemplo\obj\Debug\Ejemplo.csproj.AssemblyReference.cache
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\Ejemplo\obj\Debug\Ejemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\MikoG\source\repos\cursocsharp\seccion12\ArchivosStream\Ejemplo\obj\Debug\Ejemplo.pdb
